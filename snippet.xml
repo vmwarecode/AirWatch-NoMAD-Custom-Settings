@@ -9,9 +9,9 @@
 					<key>mcx_preference_settings</key>
 					<dict>
 						<key>ADDomain</key>
-						<string>domain.local</string>
+						<string>test.lan</string>
 						<key>KerberosRealm</key>
-						<string>DOMAIN.LOCAL</string>
+						<string>TEST.LAN</string>
 						<key>LocalPasswordSync</key>
 						<integer>1</integer>
 						<key>RenewTickets</key>
